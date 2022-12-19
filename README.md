@@ -10,11 +10,11 @@ A tool that can convert Windows Animated Cursors (*.ani) to GIF/Pillow Images/Ca
 - [ ] ANI2Cape(TODO)
 
 # Usage
-`Usage:python ani2gif.py <inputFile> <outputFile,Option>`
+`Usage:python XXX.py <inputFile> <outputFile,Option>`
 
-inputFile:需要转化的ANI文件路径。
+inputFile:需要转化的文件路径。
 
-outputFile：输出的GIF文件路径。默认为<ANI文件名>.gif
+outputFile：输出的文件路径。默认为<输入文件名>.xxx
 
 # Document
 [从Windows动态指针到MacOS动态指针——ANI2GIF](https://www.bilibili.com/read/cv20591812)
