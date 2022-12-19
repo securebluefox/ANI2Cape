@@ -5,6 +5,8 @@ A tool that can convert Windows Animated Cursors (*.ani) to GIF/Pillow Images/Ca
 
 - [x] ANI2Pillow Image
 - [x] ANI2GIF(ANI2Pillow Image + Pillow Image2GIF)
+- [x] ANI2SpriteSheet(ANI2Pillow Image + Pillow Image2SpriteSheet)
+- [x] GIF2SpriteSheet(GIF2Pillow Image + Pillow Image2SpriteSheet)
 - [ ] ANI2Cape(TODO)
 
 # Usage
