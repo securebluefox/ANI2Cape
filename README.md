@@ -18,5 +18,7 @@ outputFile：输出的文件路径。默认为<输入文件名>.xxx
 
 # Document
 [从Windows动态指针到MacOS动态指针——ANI2GIF](https://www.bilibili.com/read/cv20591812)
+
 [从Windows动态指针到MacOS动态指针—— 在MacOS上制作指针](https://www.bilibili.com/read/cv20591812)
+
 [从Windows动态指针到MacOS动态指针—— 在Windows上制作指针]()
